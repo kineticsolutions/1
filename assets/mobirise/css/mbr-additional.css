@@ -4367,27 +4367,60 @@ body {
 .cid-rhy89kxFmF .card-title {
   text-align: center;
 }
-.cid-rhDeHFHiNJ {
-  background: #ffffff;
+.cid-rie8nT6jHd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
 }
-.cid-rhDeHFHiNJ .image-block {
-  margin: auto;
-  width: 100% !important;
+.cid-rie8nT6jHd .media-container-column {
+  align-items: center;
+  -webkit-align-items: center;
 }
-.cid-rhDeHFHiNJ .mbr-figure {
-  margin: 0 auto;
+.cid-rie8nT6jHd .mbr-author-desc {
+  display: block;
 }
-.cid-rhDeHFHiNJ figcaption {
-  position: relative;
+.cid-rie8nT6jHd .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  -webkit-flex-basis: auto;
 }
-.cid-rhDeHFHiNJ figcaption div {
-  position: absolute;
-  bottom: 0;
+.cid-rie8nT6jHd .mbr-testimonial .panel-item {
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-rie8nT6jHd .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-rie8nT6jHd .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rie8nT6jHd .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
+  min-width: 100%;
+  min-height: 100%;
 }
-@media (max-width: 768px) {
-  .cid-rhDeHFHiNJ .image-block {
+.cid-rie8nT6jHd .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-rie8nT6jHd .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-rie8nT6jHd .testimonial-photo {
     width: 100% !important;
+    height: auto !important;
   }
 }
 .cid-rhJnoA3s0Q {
@@ -4396,16 +4429,16 @@ body {
   background-color: #cc2952;
 }
 .cid-rhJnoA3s0Q .mbr-section-subtitle {
-  color: #b2ccd2;
+  color: #ffffff;
 }
 .cid-rhJnoA3s0Q .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-rhJnoA3s0Q H2 {
-  color: #b2ccd2;
+  color: #ffffff;
 }
 .cid-rhJnoA3s0Q .mbr-section-subtitle B {
-  color: #b2ccd2;
+  color: #ffffff;
 }
 .cid-rhPRXYGtJD {
   padding-top: 45px;
